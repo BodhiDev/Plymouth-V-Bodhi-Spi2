@@ -1,6 +1,6 @@
 ### Black Background
-Window.SetBackgroundTopColor(0.21, 0.23, 0.30);
-Window.SetBackgroundBottomColor(0.21, 0.23, 0.30);
+Window.SetBackgroundTopColor(0.18, 0.18, 0.18);
+Window.SetBackgroundBottomColor(0.18, 0.18, 0.18);
 //SpriteWindowSetBackgroundTopColor(255.00, 255.00, 255.00);
 //SpriteWindowSetBackgroundBottomColor(255.00, 255.00, 255.00);
 //SpriteWindowSetBackgroundTopColor(77.00, 77.00, 77.00);
