@@ -1,9 +1,10 @@
 ### Black Background
-//Window.SetBackgroundTopColor(0.13, 0.22, 0.01);
-//Window.SetBackgroundBottomColor(0.25, 0.37, 0.09);
- SpriteWindowSetBackgroundTopColor(255.00, 255.00, 255.00);
- SpriteWindowSetBackgroundBottomColor(255.00, 255.00, 255.00);
-
+Window.SetBackgroundTopColor(0.21, 0.23, 0.30);
+Window.SetBackgroundBottomColor(0.21, 0.23, 0.30);
+//SpriteWindowSetBackgroundTopColor(255.00, 255.00, 255.00);
+//SpriteWindowSetBackgroundBottomColor(255.00, 255.00, 255.00);
+//SpriteWindowSetBackgroundTopColor(77.00, 77.00, 77.00);
+//SpriteWindowSetBackgroundBottomColor(47.00, 53.00, 57.00);
 
 logo.image = Image("bodhi_logo.png");
 logo.sprite = Sprite(logo.image);
